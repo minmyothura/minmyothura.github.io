@@ -44,7 +44,7 @@ p {line-height: 2}
   <div class="w3-content">
     <h1 class="w3-center w3-text-grey"><b>Marc & Alison</b></h1>
     <img class="w3-round w3-grayscale-min" src="3.jpg" style="width:100%;margin:32px 0">
-    <p><i>You know I love u.And I know u love me. We are getting married to make our life better and happier.We would like to invite to come.I love u baby.I hope u will like my valentine's present.</i>
+    <p><i>You know I love u.And I know u love me. We are getting married to make our life better and happier.I would like to invite to come.I love u baby.I hope u will like my valentine's present.</i>
     </p><br>
     <p class="w3-center"><a href="#wedding" class="w3-button w3-black w3-round w3-padding-large w3-large">Wedding Details</a></p>
   </div>
